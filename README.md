@@ -1,6 +1,8 @@
 # 2026:
 
 ## 2026-10: 
+Consider the needs for additional folders.
+
 ### -2026-10-04
 ...
 
