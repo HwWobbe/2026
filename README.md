@@ -5,6 +5,7 @@ Consider:
 - the needs for
   - additional folders.
   - a re-sync of local and remote Git lbraries
+    - ClawH testing and Certification(s)
   - extended use of DiigoH outliners 
 - refine BrowserGroups use
 - ...
