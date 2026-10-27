@@ -10,8 +10,11 @@ Consider:
 - refine BrowserGroups use
 - ...
 
-### -2026-10-04
+### -2026-10-27
 ...
+
+- prior reSync seems effective
+  - keep watching, with slow expansions
 
 ### -2026-10-04
 
