@@ -3,6 +3,9 @@
 ### -2026-10-28
 ...
 
+- prior reSync seems effective
+  - keep watching, with slow expansions
+
 ## 2026-10-17: 
 Consider: 
 - the needs for
