@@ -1,6 +1,9 @@
 # 2026:
 
-## 2026-12-17: 
+### -2026-10-28
+...
+
+## 2026-10-17: 
 Consider: 
 - the needs for
   - additional folders.
@@ -9,9 +12,6 @@ Consider:
   - extended use of DiigoH outliners 
 - refine BrowserGroups use
 - ...
-
-### -2026-10-28
-...
 
 ### -2026-10-04
 
