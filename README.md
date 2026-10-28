@@ -1,6 +1,12 @@
 # 2026:
 
-## 2026-12-17: 
+### -2026-10-28
+...
+
+- prior reSync seems effective
+  - keep watching, with slow expansions
+
+## 2026-10-17: 
 Consider: 
 - the needs for
   - additional folders.
@@ -9,12 +15,6 @@ Consider:
   - extended use of DiigoH outliners 
 - refine BrowserGroups use
 - ...
-
-### -2026-10-27
-...
-
-- prior reSync seems effective
-  - keep watching, with slow expansions
 
 ### -2026-10-04
 
