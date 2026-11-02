@@ -4,6 +4,9 @@
 ...
 
 ### -2026-10-28
+* ...
+
+### -2026-10-28
 ...
 
 - prior reSync seems effective
